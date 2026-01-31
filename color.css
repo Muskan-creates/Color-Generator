@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    background-color: blanchedalmond;
+}
+h1{
+    color:black;
+}
+.btn{
+    margin:auto;
+}
+.container{
+    height:250px;
+    width:600px;
+    text-align:center;
+    border:2px solid black;
+    margin:auto;
+}
